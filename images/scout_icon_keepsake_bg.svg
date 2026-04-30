@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 200 210">
+
+  <!-- Background matching Keepsake v5 pill: fill=#FDF6EC stroke=#E8C98A -->
+  <rect x="0" y="0" width="200" height="200" rx="44" fill="#FDF6EC" stroke="#E8C98A" stroke-width="1.2" style="fill:rgb(253, 246, 236);stroke:rgb(232, 201, 138);color:rgb(0, 0, 0);stroke-width:1.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Glass circle outer ring -->
+  <circle cx="88" cy="92" r="60" fill="#EDE0CC" stroke="#A07840" stroke-width="2.5" style="fill:rgb(237, 224, 204);stroke:rgb(160, 120, 64);color:rgb(0, 0, 0);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Glass circle inner -->
+  <circle cx="88" cy="92" r="50" fill="#E4D4B4" style="fill:rgb(228, 212, 180);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Lens shine -->
+  <path d="M68 68 Q80 60 96 64" fill="none" stroke="#FFF8E8" stroke-width="2.5" stroke-linecap="round" opacity="0.7" style="fill:none;stroke:rgb(255, 248, 232);color:rgb(0, 0, 0);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Handle -->
+  <line x1="127" y1="130" x2="158" y2="165" stroke="#A07840" stroke-width="11" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(160, 120, 64);color:rgb(0, 0, 0);stroke-width:11px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="127" y1="130" x2="158" y2="165" stroke="#D4A850" stroke-width="3.5" stroke-linecap="round" opacity="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(212, 168, 80);color:rgb(0, 0, 0);stroke-width:3.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Bar chart inside lens -->
+  <rect x="70" y="106" width="10" height="18" rx="2" fill="#7A5830" style="fill:rgb(122, 88, 48);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="84" y="94" width="10" height="30" rx="2" fill="#8B6438" style="fill:rgb(139, 100, 56);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="98" y="84" width="10" height="40" rx="2" fill="#A07840" style="fill:rgb(160, 120, 64);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+</svg>

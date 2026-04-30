@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 380 140">
+
+  <!-- Background pill snug around content -->
+  <rect x="0" y="0" width="380" height="130" rx="22" fill="#FDF6EC" stroke="#E8C98A" stroke-width="1.2" style="fill:rgb(253, 246, 236);stroke:rgb(232, 201, 138);color:rgb(0, 0, 0);stroke-width:1.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- === BOW centered at x=52 vertically centered at y=65 === -->
+
+  <!-- Left loop -->
+  <path d="M50 63 C43 53 22 44 17 52 C12 60 28 68 48 66 Z" fill="#C84828" stroke="#A03018" stroke-width="0.8" style="fill:rgb(200, 72, 40);stroke:rgb(160, 48, 24);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M49 63 C42 55 28 48 22 54" fill="none" stroke="#A03018" stroke-width="0.8" stroke-linecap="round" opacity="0.35" style="fill:none;stroke:rgb(160, 48, 24);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.35;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Right loop -->
+  <path d="M54 63 C61 53 82 44 87 52 C92 60 76 68 56 66 Z" fill="#C84828" stroke="#A03018" stroke-width="0.8" style="fill:rgb(200, 72, 40);stroke:rgb(160, 48, 24);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M55 63 C62 55 76 48 82 54" fill="none" stroke="#A03018" stroke-width="0.8" stroke-linecap="round" opacity="0.35" style="fill:none;stroke:rgb(160, 48, 24);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.35;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Left tail -->
+  <path d="M47 68 C43 75 36 81 30 90" fill="none" stroke="#C84828" stroke-width="5.5" stroke-linecap="round" style="fill:none;stroke:rgb(200, 72, 40);color:rgb(0, 0, 0);stroke-width:5.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M49 68 C45 75 38 81 32 90" fill="none" stroke="#E06848" stroke-width="2" stroke-linecap="round" opacity="0.45" style="fill:none;stroke:rgb(224, 104, 72);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.45;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Right tail -->
+  <path d="M57 68 C61 75 68 81 74 90" fill="none" stroke="#C84828" stroke-width="5.5" stroke-linecap="round" style="fill:none;stroke:rgb(200, 72, 40);color:rgb(0, 0, 0);stroke-width:5.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M55 68 C59 75 66 81 72 90" fill="none" stroke="#E06848" stroke-width="2" stroke-linecap="round" opacity="0.45" style="fill:none;stroke:rgb(224, 104, 72);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.45;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Knot -->
+  <rect x="46" y="59" width="12" height="10" rx="3" fill="#8B2810" style="fill:rgb(139, 40, 16);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="48" y="60" width="8" height="4" rx="2" fill="#B84030" opacity="0.55" style="fill:rgb(184, 64, 48);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.55;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Gold stripes -->
+  <path d="M49 63 C42 55 28 48 22 54" fill="none" stroke="#F0B840" stroke-width="1.2" opacity="0.3" stroke-linecap="round" style="fill:none;stroke:rgb(240, 184, 64);color:rgb(0, 0, 0);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.3;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M55 63 C62 55 76 48 82 54" fill="none" stroke="#F0B840" stroke-width="1.2" opacity="0.3" stroke-linecap="round" style="fill:none;stroke:rgb(240, 184, 64);color:rgb(0, 0, 0);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.3;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- === WORDMARK === -->
+  <text x="112" y="46" font-family="Georgia, serif" font-size="11" fill="#8B6040" letter-spacing="4" opacity="0.75" style="fill:rgb(139, 96, 64);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.75;font-family:Georgia, serif;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">THE</text>
+  <text x="109" y="84" font-family="Georgia, serif" font-size="42" fill="#5C3A1E" letter-spacing="1" style="fill:rgb(92, 58, 30);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:42px;font-weight:400;text-anchor:start;dominant-baseline:auto">Keepsake</text>
+  <text x="112" y="102" font-family="Georgia, serif" font-size="11" fill="#B07040" letter-spacing="2.5" font-style="italic" style="fill:rgb(176, 112, 64);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:11px;font-weight:400;font-style:italic;text-anchor:start;dominant-baseline:auto">gifts worth holding onto</text>
+
+</svg>
